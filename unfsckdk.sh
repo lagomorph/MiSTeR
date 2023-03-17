@@ -1,6 +1,6 @@
 #!/bin/bash
 
-dt='20221031'
+dt='20230317'
 
 mv /media/fat/_Arcade/cores/DonkeyKong_${dt}.rbf /media/fat/_Arcade/cores/DonkeyKong_${dt}.rbf.bk
 rm /media/fat/_Arcade/cores/DonkeyKong_*.rbf
